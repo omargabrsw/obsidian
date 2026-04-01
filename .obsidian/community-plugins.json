@@ -1,4 +1,8 @@
 [
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "quickadd",
+  "templater-obsidian",
+  "dataview",
+  "buttons"
 ]

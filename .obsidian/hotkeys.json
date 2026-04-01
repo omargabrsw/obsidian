@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:create-Templates/Journal/Journal Page Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}

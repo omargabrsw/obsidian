@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiTarget",
+      "🎯",
+      "LiNotebookPen",
+      "LiLayoutTemplate"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +32,8 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Templates": "LiLayoutTemplate",
+  "Journal": "LiNotebookPen",
+  "Goals.md": "LiTarget"
 }

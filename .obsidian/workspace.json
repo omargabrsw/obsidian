@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98b04f7f54a04194",
+        "id": "40123db96c8381e3",
         "type": "tabs",
         "children": [
           {
-            "id": "49471b0a78217a1c",
+            "id": "c351d61bfc1b02bd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,6 @@
       {
         "id": "ba413f3d4486b2db",
         "type": "tabs",
-        "dimension": 66.07142857142857,
         "children": [
           {
             "id": "3d3e5369c11b0181",
@@ -50,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Journal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +73,11 @@
         ]
       },
       {
-        "id": "8f3ccad5503aa956",
+        "id": "4138c41e4fa0394f",
         "type": "tabs",
-        "dimension": 33.92857142857143,
         "children": [
           {
-            "id": "74fabc51893cd9fc",
+            "id": "7324fa92de7fb66e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -108,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Journal/Journal Page Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Journal Page Template"
             }
           },
           {
@@ -126,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Journal/Journal Page Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Journal Page Template"
             }
           },
           {
@@ -168,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Journal/Journal Page Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Journal Page Template"
             }
           },
           {
@@ -195,16 +196,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5ef3e62d24323bb2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.base",
+    "Goals.md",
+    "Templates/Journal/Journal Page Template.md",
+    "2026-04-01 - de7k.md",
+    "Journal/2026-04-01-Test.md",
+    "Journal/يوم جديد.md",
+    "Journal/Test.md",
+    "Journal/11.md",
+    "Journal/Untitled 1.md",
+    "Templates/JournalTemplate.md.md",
+    "templates/JournalTemplate.md.md",
+    "Untitled.canvas",
+    "Journal/2026-03-30 test.md",
+    "Journal/2026-03-30 First Entry.md",
+    "Journal/يوم سعيد.md",
+    "Templates/Journal",
+    "Journal/Journal Template.md",
+    "Templates",
+    "Journal"
+  ]
 }
