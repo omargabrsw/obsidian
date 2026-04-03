@@ -1,5 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "openBehavior": "file:Dashboard",
+  "attachmentFolderPath": "Attachments",
+  "readableLineLength": true,
+  "showInlineTitle": false
 }

@@ -4,5 +4,9 @@
   "quickadd",
   "templater-obsidian",
   "dataview",
-  "buttons"
+  "buttons",
+  "obsidian-kanban",
+  "better-word-count",
+  "obsidian-book-search-plugin",
+  "media-extended"
 ]

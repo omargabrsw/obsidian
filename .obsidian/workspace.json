@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40123db96c8381e3",
+        "id": "b9bcad13b23645d8",
         "type": "tabs",
         "children": [
           {
-            "id": "c351d61bfc1b02bd",
+            "id": "492861fab9d3d4b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dashboard"
             }
           }
         ]
@@ -73,11 +77,11 @@
         ]
       },
       {
-        "id": "4138c41e4fa0394f",
+        "id": "bbc0f376995ab413",
         "type": "tabs",
         "children": [
           {
-            "id": "7324fa92de7fb66e",
+            "id": "8a0ed7de11a3b70d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -196,37 +200,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "media-extended:Open external media": false
     }
   },
-  "active": "5ef3e62d24323bb2",
+  "active": "8a0ed7de11a3b70d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled.base",
+    "Dashboard.md",
+    "Youtube Notes/EVERY book that's helped me.md",
+    "Books/Influencer The New Science of Leading Change - Joseph Grenny Kerry Patterson David Maxfield Ron McMillan Al Switzler.md",
+    "Books/The Millionaire Fastlane - MJ DeMarco.md",
+    "Journal/Journal Entries View.md",
+    "Youtube Notes/EVERY book that's helped me 1.md",
+    "Dear Hamza.md",
+    "Books/Books.md",
+    "Youtube Notes",
+    "Clippings/EVERY book that's helped me.md",
+    "Clippings",
+    "Books/Can't Hurt Me - David Goggins.md",
+    "Books/How to Win Friends and Influence People - Dale Carnegie.md",
+    "Books/Books read list.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss.md",
+    "Books/The Way of the Superior Man - David Deida.md",
+    "Templates/Book/Book Template.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 1.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 4.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 3.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 2.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 1 1.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 1 1 1.md",
+    "Books/The 4-Hour Work Week - Timothy Ferriss 1 2.md",
+    "Programming terms.md",
     "Goals.md",
     "Templates/Journal/Journal Page Template.md",
-    "2026-04-01 - de7k.md",
-    "Journal/2026-04-01-Test.md",
-    "Journal/يوم جديد.md",
-    "Journal/Test.md",
-    "Journal/11.md",
-    "Journal/Untitled 1.md",
-    "Templates/JournalTemplate.md.md",
-    "templates/JournalTemplate.md.md",
+    "Journal/2026-04-01 - de7k.md",
+    "Attachments/Recording 20260401202359.m4a",
+    "Templates/Book",
+    "Attachments/The Way of the Superior Man (16pt Large Print Edition) - David Deida.jpg",
+    "Attachments/The Way of the Superior Man - David Deida.jpg",
+    "Books",
+    "Attachments",
+    "Untitled.base",
     "Untitled.canvas",
-    "Journal/2026-03-30 test.md",
-    "Journal/2026-03-30 First Entry.md",
-    "Journal/يوم سعيد.md",
     "Templates/Journal",
-    "Journal/Journal Template.md",
     "Templates",
     "Journal"
   ]

@@ -1,4 +1,10 @@
 {
-  "cssTheme": "Minimal",
-  "showRibbon": true
+  "cssTheme": "",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "full-width",
+    "book-grid",
+    "wide"
+  ]
 }
