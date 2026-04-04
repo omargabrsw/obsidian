@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bcad13b23645d8",
+        "id": "47a2f0047578ca8a",
         "type": "tabs",
         "children": [
           {
-            "id": "492861fab9d3d4b4",
+            "id": "a08caf8f382f7f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Youtube Notes/EVERY Principle From How To Win Friends & Influence People by Dale Carnegie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "EVERY Principle From How To Win Friends & Influence People by Dale Carnegie"
             }
           }
         ]
@@ -77,11 +77,11 @@
         ]
       },
       {
-        "id": "bbc0f376995ab413",
+        "id": "93222a1c4f561454",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0ed7de11a3b70d",
+            "id": "492861fab9d3d4b4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Journal/Journal Page Template.md",
+                "file": "Cardio Workout Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Journal Page Template"
+              "title": "Outline of Cardio Workout Plan"
             }
           },
           {
@@ -193,6 +193,22 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "1018c43df7673040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784cfb6caea965e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,39 +227,42 @@
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "media-extended:Open external media": false
+      "media-extended:Open external media": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8a0ed7de11a3b70d",
+  "active": "a08caf8f382f7f91",
   "lastOpenFiles": [
+    "Programming terms.md",
     "Dashboard.md",
+    "Daily Routine.md",
+    "Youtube Notes/EVERY Principle From How To Win Friends & Influence People by Dale Carnegie.md",
+    "Books/How to Win Friends and Influence People - Dale Carnegie.md",
+    "Cali Workout Plan.md",
+    "Journal/2026-04-04 - we are so back.md",
+    "Journal/2026-04-04 - null.md",
+    "Journal/Journal Entries View.md",
+    "Templates/Journal/Journal Page Template.md",
+    "Untitled.md",
+    "Templates/Book/Book Template.md",
+    "Cardio Workout Plan.md",
+    "Books/Books.md",
+    "Youtube Notes/Full Mental Health Guide For Men (This should be your priority right now).md",
+    "Attachments/mx-img-cb5hx3i7kgggzts4denkgatz-pt1m4_17s.jpg",
+    "media-lib/url-cb5hx3i7.md",
+    "media-lib",
     "Youtube Notes/EVERY book that's helped me.md",
     "Books/Influencer The New Science of Leading Change - Joseph Grenny Kerry Patterson David Maxfield Ron McMillan Al Switzler.md",
     "Books/The Millionaire Fastlane - MJ DeMarco.md",
-    "Journal/Journal Entries View.md",
     "Youtube Notes/EVERY book that's helped me 1.md",
     "Dear Hamza.md",
-    "Books/Books.md",
     "Youtube Notes",
     "Clippings/EVERY book that's helped me.md",
     "Clippings",
     "Books/Can't Hurt Me - David Goggins.md",
-    "Books/How to Win Friends and Influence People - Dale Carnegie.md",
     "Books/Books read list.md",
     "Books/The 4-Hour Work Week - Timothy Ferriss.md",
     "Books/The Way of the Superior Man - David Deida.md",
-    "Templates/Book/Book Template.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 1.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 4.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 3.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 2.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 1 1.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 1 1 1.md",
-    "Books/The 4-Hour Work Week - Timothy Ferriss 1 2.md",
-    "Programming terms.md",
-    "Goals.md",
-    "Templates/Journal/Journal Page Template.md",
-    "Journal/2026-04-01 - de7k.md",
     "Attachments/Recording 20260401202359.m4a",
     "Templates/Book",
     "Attachments/The Way of the Superior Man (16pt Large Print Edition) - David Deida.jpg",
@@ -253,7 +272,6 @@
     "Untitled.base",
     "Untitled.canvas",
     "Templates/Journal",
-    "Templates",
-    "Journal"
+    "Templates"
   ]
 }

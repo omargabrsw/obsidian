@@ -5,12 +5,12 @@
   "playback.default-volume": 100,
   "playback.speed-step": 0.1,
   "playback.preserve-pitch": true,
-  "playback.track.default-enabled": false,
+  "playback.track.default-enabled": true,
   "playback.track.folder-path": null,
   "playback.track.default-languages": [],
   "playback.screenshot.format": "image/jpeg",
   "playback.screenshot.quality": 0.8,
-  "playback.screenshot.folder-path": null,
+  "playback.screenshot.folder-path": "/Attachments",
   "note.embed.load-strategy": "eager",
   "note.embed.handle-hosted": true,
   "note.embed.handle-direct-url": true,
@@ -26,6 +26,6 @@
   "note.template.screenshot": "\n- !{{SCREENSHOT}} {{TIMESTAMP}} ",
   "note.template.screenshot-embed": "{{TITLE}}{{DURATION}}|50",
   "note.template.insert-at": "after-cursor",
-  "media-lib.folder-path": "media-lib",
+  "media-lib.folder-path": "Attachments",
   "cache.cover-image.max-size-mb": 100
 }
