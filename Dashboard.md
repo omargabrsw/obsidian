@@ -52,8 +52,7 @@ sort due asc
 ## 🏗️ Project Boards
 
 - [[Boards/LMS|🖥️ LMS Board]]
-- [[Boards/Content|🎬 Video Content Board]]
-- [[Boards/OtherProject|⚡ Other Project Board]]
+- [[Youtube Content|🎬 Video Content Board]]
 
 ---
 
@@ -75,5 +74,5 @@ sort due asc
 ## 🔄 Optional Sections
 
 - Calendar / Periodic Notes links  
-- Media / Reference files via [[Media|Media Library]]  
-- Anything else you like grouped by emoji or categor
+- Media / Reference files via   
+- Anything else you like grouped by emoji or category

@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47a2f0047578ca8a",
+        "id": "574d70b8f5b970f5",
         "type": "tabs",
         "children": [
           {
-            "id": "a08caf8f382f7f91",
+            "id": "72b47dde6c71a62d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Boards/Content.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Content"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -239,23 +231,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a08caf8f382f7f91",
+  "active": "492861fab9d3d4b4",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Goals.md",
+    "Boards/LMS.md",
+    "Media.md",
+    "Boards/Youtube Content.md",
+    "Templates/Gratitude Journal Template.md",
+    "Templates/YouTube Note Template.md",
+    "Templates/Daily Journal Template.md",
+    "Templates/Book Note Template.md",
+    "Daily Routine.md",
     "Journal/Journal Entries View.md",
+    "Goals.md",
     "Programming terms.md",
     "Books/Books read list.md",
     "Books/Books.md",
     "Journal/2026-04-04 - WE ARE SO BAAACK.md",
     "Journal/2026-04-05 - null.md",
-    "Boards/Content.md",
-    "Boards/Content.md",
-    "Boards/LMS.md",
     "Boards",
     "Journal/2026-04-04 - we are so back.md",
     "Tasks",
-    "Daily Routine.md",
     "Youtube Notes/EVERY Principle From How To Win Friends & Influence People by Dale Carnegie.md",
     "Books/How to Win Friends and Influence People - Dale Carnegie.md",
     "Cali Workout Plan.md",
@@ -264,13 +260,8 @@
     "Untitled.md",
     "Templates/Book/Book Template.md",
     "Cardio Workout Plan.md",
-    "Youtube Notes/Full Mental Health Guide For Men (This should be your priority right now).md",
     "Attachments/mx-img-cb5hx3i7kgggzts4denkgatz-pt1m4_17s.jpg",
-    "media-lib/url-cb5hx3i7.md",
     "media-lib",
-    "Youtube Notes/EVERY book that's helped me.md",
-    "Books/Influencer The New Science of Leading Change - Joseph Grenny Kerry Patterson David Maxfield Ron McMillan Al Switzler.md",
-    "Books/The Millionaire Fastlane - MJ DeMarco.md",
     "Youtube Notes",
     "Clippings",
     "Attachments/Recording 20260401202359.m4a",
