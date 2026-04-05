@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiClipboardList",
+      "LiWrench",
       "LiYoutube",
       "LiBook",
-      "LiPaperclip",
-      "LiCircuitBoard",
-      "🎛"
+      "LiPaperclip"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,7 @@
   "Dashboard.md": "LiCircuitBoard",
   "Attachments": "LiPaperclip",
   "Books": "LiBook",
-  "Youtube Notes": "LiYoutube"
+  "Youtube Notes": "LiYoutube",
+  "Tasks": "LiWrench",
+  "Boards": "LiClipboardList"
 }
