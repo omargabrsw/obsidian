@@ -1,6 +1,5 @@
 ---
 cssclasses:
-  - wide
 ---
 [[Cali Workout Plan|Cali Workout Plan]]
 [[Cardio Workout Plan]]

@@ -11,23 +11,14 @@
             "id": "72b47dde6c71a62d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Boards/LMS.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "LMS"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -241,36 +232,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "492861fab9d3d4b4",
+  "active": "72b47dde6c71a62d",
   "lastOpenFiles": [
-    "Boards/LMS.md",
-    "Boards/Youtube Content.md",
-    "Programming terms.md",
-    "Goals.md",
-    "Dashboard.md",
     "Daily Routine.md",
     "Cardio Workout Plan.md",
     "Cali Workout Plan.md",
+    "Templates/Journal/Weekly Journal Page Template.md",
+    "Journal/2026-04-04 - WE ARE SO BAAACK.md",
+    "Untitled.md",
+    "Templates/Journal/Daily Journal Page Template.md",
+    "Journal/2026-05-05.md",
+    "Journal/Journal Entries View.md",
+    "Dashboard.md",
+    "Goals.md",
+    "Journal/2026-05-01.md",
+    "Journal/2026-05-03.md",
+    "Journal/2026-05-04.md",
+    "Books/Books.md",
+    "Books/Books read list.md",
+    "Boards/LMS.md",
+    "Boards/Youtube Content.md",
+    "Programming terms.md",
     "Youtube Notes/EVERY book that's helped me.md",
     "Youtube Notes/EVERY Principle From How To Win Friends & Influence People by Dale Carnegie.md",
-    "Books/Books.md",
-    "Journal/2026-04-04 - WE ARE SO BAAACK.md",
     "Media.md",
     "Templates/Gratitude Journal Template.md",
     "Templates/YouTube Note Template.md",
     "Templates/Daily Journal Template.md",
     "Templates/Book Note Template.md",
-    "Journal/Journal Entries View.md",
-    "Books/Books read list.md",
-    "Journal/2026-04-05 - null.md",
     "Boards",
-    "Journal/2026-04-04 - we are so back.md",
     "Tasks",
-    "Books/How to Win Friends and Influence People - Dale Carnegie.md",
-    "Journal/2026-04-04 - null.md",
-    "Templates/Journal/Journal Page Template.md",
-    "Untitled.md",
-    "Templates/Book/Book Template.md",
     "Attachments/mx-img-cb5hx3i7kgggzts4denkgatz-pt1m4_17s.jpg",
     "media-lib",
     "Youtube Notes",
