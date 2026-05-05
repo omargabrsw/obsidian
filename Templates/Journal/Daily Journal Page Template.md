@@ -1,7 +1,10 @@
 ---
-date: {{date}}
-mood: 
+date:
+  "{ date }":
+mood:
 reflection_tags: []
+tags:
+  - Journaling
 ---
 # {{title}}
 
