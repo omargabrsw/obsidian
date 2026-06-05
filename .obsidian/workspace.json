@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "574d70b8f5b970f5",
+        "id": "eac39247343813a6",
         "type": "tabs",
         "children": [
           {
-            "id": "72b47dde6c71a62d",
+            "id": "4dc8018f27a8a2e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Journal Entries View.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Journal Entries View"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Journaling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,10 +80,14 @@
             "id": "492861fab9d3d4b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -232,44 +232,51 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "72b47dde6c71a62d",
+  "active": "4dc8018f27a8a2e8",
   "lastOpenFiles": [
-    "Journal/2026-03-23.md",
-    "Journal/Journal Entries View.md",
+    "Youtube Notes/4 Dating Strategies You Haven’t Heard Before.md",
     "Dashboard.md",
-    "Youtube Notes/EVERY book that's helped me.md",
-    "Hamza.md",
+    "Stretching And Mobility Routine.md",
+    "Daily Routine.md",
+    "Boards/LMS.md",
+    "Boards/Youtube Content.md",
+    "Attachments/Stretch 43.png",
+    "Attachments/Stretch 42.png",
+    "Attachments/Stretch 41.png",
+    "Attachments/Stretch 40.png",
+    "Attachments/Stretch 39.png",
+    "Attachments/Stretch 38.png",
+    "Attachments/Stretch 37.png",
+    "Attachments/Stretch 36.png",
+    "Attachments/Stretch 35.png",
+    "Attachments/Stretch 34.png",
+    "Attachments/url-dg52r1bw.md",
+    "Attachments/url-vsauq9gz.md",
+    "Attachments/url-jq6qm3se.md",
+    "Attachments/url-ifp4szgx.md",
+    "Attachments/url-xfygcg77.md",
+    "Attachments/url-jdlnilu4.md",
+    "Attachments/url-l99mi3k6.md",
+    "Attachments/url-ek6bacd3.md",
     "Journal/2026-03-22.md",
+    "Hamza.md",
+    "Programming terms.md",
+    "Goals.md",
+    "Journal/Journal Entries View.md",
+    "Journal/2026-03-23.md",
+    "Youtube Notes/EVERY book that's helped me.md",
     "Journal/2026-03-19.md",
     "Journal/2026-03-17.md",
     "Journal/2026-03-16.md",
     "Journal/2026-03-15.md",
     "Templates/Journal/Weekly Journal Page Template.md",
-    "Templates/Journal/Daily Journal Page Template.md",
-    "Cardio Workout Plan.md",
-    "Cali Workout Plan.md",
-    "Daily Routine.md",
-    "Journal/2026-04-04 - WE ARE SO BAAACK.md",
-    "Untitled.md",
-    "Journal/2026-05-05.md",
-    "Goals.md",
-    "Journal/2026-05-01.md",
-    "Journal/2026-05-03.md",
-    "Journal/2026-05-04.md",
-    "Books/Books.md",
-    "Books/Books read list.md",
-    "Boards/LMS.md",
-    "Boards/Youtube Content.md",
     "Boards",
     "Tasks",
-    "Attachments/mx-img-cb5hx3i7kgggzts4denkgatz-pt1m4_17s.jpg",
     "media-lib",
     "Youtube Notes",
     "Clippings",
     "Attachments/Recording 20260401202359.m4a",
     "Templates/Book",
-    "Attachments/The Way of the Superior Man (16pt Large Print Edition) - David Deida.jpg",
-    "Attachments/The Way of the Superior Man - David Deida.jpg",
     "Books",
     "Attachments",
     "Untitled.base",
