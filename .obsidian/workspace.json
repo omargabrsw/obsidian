@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eac39247343813a6",
+        "id": "2e81bbf1c8e287e7",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc8018f27a8a2e8",
+            "id": "2441d72b120a9cbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Youtube Notes/4 Dating Strategies You Haven’t Heard Before.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4 Dating Strategies You Haven’t Heard Before"
             }
           }
         ]
@@ -73,21 +77,17 @@
         ]
       },
       {
-        "id": "93222a1c4f561454",
+        "id": "c14e7e8fc0b06689",
         "type": "tabs",
         "children": [
           {
-            "id": "492861fab9d3d4b4",
+            "id": "28d26d8ebcca01bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -232,11 +232,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4dc8018f27a8a2e8",
+  "active": "2441d72b120a9cbf",
   "lastOpenFiles": [
-    "Youtube Notes/4 Dating Strategies You Haven’t Heard Before.md",
+    "Youtube Notes/8 Ways To Love A Woman PROPERLY (Full Guide To Loving A Woman).md",
     "Dashboard.md",
+    "Youtube Notes/How to never run out of things to say with a girl.md",
+    "Youtube Notes/4 Personality Traits To Make Any Woman Obsessed With You.md",
+    "Youtube Notes/The MOST Seductive Trait In The World.md",
+    "Youtube Notes/If You Get Awkward Talking To Girls WATCH THIS.md",
+    "Youtube Notes/Full Guide to Attracting Women.md",
+    "Youtube Notes/Full Guide to Cold Approaching Women (RESULTS GUARANTEED!!).md",
+    "Youtube Notes/How Girls Want You to TEXT THEM.md",
+    "Youtube Notes/What To Do On A Date With A Girl.md",
+    "Youtube Notes/How to Make Her Chase You Without Saying a Word.md",
+    "Youtube Notes/How to help your friends on their self improvement (Become a influential self improvement coach).md",
+    "Youtube Notes/How To Think.md",
+    "Youtube Notes/How to banter with girls.md",
+    "Youtube Notes/How to enjoy time with girls without getting distracted from building success.md",
+    "Hamza.md",
     "Stretching And Mobility Routine.md",
+    "Goals.md",
+    "Youtube Notes/4 Dating Strategies You Haven’t Heard Before.md",
+    "Youtube Notes/Full Mental Health Guide For Men (This should be your priority right now).md",
+    "Youtube Notes/EVERY Principle From How To Win Friends & Influence People by Dale Carnegie.md",
+    "Youtube Notes/EVERY book that's helped me.md",
     "Daily Routine.md",
     "Boards/LMS.md",
     "Boards/Youtube Content.md",
@@ -251,25 +270,6 @@
     "Attachments/Stretch 35.png",
     "Attachments/Stretch 34.png",
     "Attachments/url-dg52r1bw.md",
-    "Attachments/url-vsauq9gz.md",
-    "Attachments/url-jq6qm3se.md",
-    "Attachments/url-ifp4szgx.md",
-    "Attachments/url-xfygcg77.md",
-    "Attachments/url-jdlnilu4.md",
-    "Attachments/url-l99mi3k6.md",
-    "Attachments/url-ek6bacd3.md",
-    "Journal/2026-03-22.md",
-    "Hamza.md",
-    "Programming terms.md",
-    "Goals.md",
-    "Journal/Journal Entries View.md",
-    "Journal/2026-03-23.md",
-    "Youtube Notes/EVERY book that's helped me.md",
-    "Journal/2026-03-19.md",
-    "Journal/2026-03-17.md",
-    "Journal/2026-03-16.md",
-    "Journal/2026-03-15.md",
-    "Templates/Journal/Weekly Journal Page Template.md",
     "Boards",
     "Tasks",
     "media-lib",
